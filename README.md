@@ -8,10 +8,10 @@ In this task we build the model to predict the score if the student studies 9.5 
 IDE :jupyter notebook
 
 Steps :
-Import libraries
-Read the data
-Explore the data
-data visualization
-Make the prediction
-Evaluate the model
-predict the score if the student studies 9.5 hrs/day
+1.Import libraries
+2.Read the data
+3.Explore the data
+4.data visualization
+5.Make the prediction
+7.Evaluate the model
+8.predict the score if the student studies 9.5 hrs/day
